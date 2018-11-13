@@ -92,3 +92,6 @@
 `git clone address_repository`
 > Récupère le repository indiqué dans le dossier courant.
 
+### Fetch
+`git fetch <REMOTE>`
+> Consulter les changements survenus sur le REMOTE
