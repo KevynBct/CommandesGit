@@ -95,3 +95,6 @@
 ### Fetch
 `git fetch <REMOTE>`
 > Consulter les changements survenus sur le REMOTE
+
+
+### tououtoutou
